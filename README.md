@@ -2,6 +2,7 @@
 
 Prototyping shield for any STM32 Nucleo64 board.
 ![Shield Outline](board.png)
+
 ### Features:
 
 * 55x70 mm
@@ -15,4 +16,9 @@ Prototyping shield for any STM32 Nucleo64 board.
 * Free pads and pins for custom soldering
 
 ### NOTE
-Original STM Morpho form-factor contains 2*19 connectrors. This shield uses 2*20 which are easier to buy. Be careful during soldering and connecting boards together.
+
+Original STM Morpho form-factor contains 2 * 19 connectrors. This shield uses 2 * 20 which are easier to buy. Be careful during soldering and connecting the shield to the Nucleo board.
+
+### Status
+
+12-Aug-18: First batch of PCBs submitted to PCB manufacturer
